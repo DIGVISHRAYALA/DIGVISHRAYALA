@@ -1,13 +1,13 @@
 <table>
   <tr>
     <td width="28%" align="center">
-      <img src="./taj_digvish_profile.jpeg" width="220" style="border-radius:50%" />
+      <img src="./tajmahal_git_profile.jpeg" width="220" style="border-radius:50%" />
       <h2>Rayala Digvish</h2>
       <p><i>Full Stack Developer • B.Tech CSE</i></p>
     </td>
 
     <td width="72%">
-      <h1>Hi , I'm Rayala Digvish</h1>
+      <h1>Hi, I'm Rayala Digvish</h1>
 
       <p>
         A passionate Full Stack Developer from India 🇮🇳 with a strong interest
@@ -22,12 +22,12 @@
 
         <li>
           Featured project:
-          <a href="https://srh-universe.pages.dev/">SRH Universe</a> – a full-stack
-          fan community platform
+          <a href="https://srh-universe.pages.dev/">SRH Universe</a>
+          – a full-stack fan community platform
         </li>
 
         <li>
-          💬 Comfortable working with
+          Comfortable with
           HTML, CSS, JavaScript, React, Node.js, MongoDB, SQL, C++, Java
         </li>
 
@@ -40,8 +40,8 @@
         </li>
 
         <li>
-          Fun fact: I enjoy building community-driven platforms and analyzing
-          user engagement patterns
+          Fun fact: I enjoy building community-driven platforms and
+          analyzing user engagement patterns
         </li>
       </ul>
 
